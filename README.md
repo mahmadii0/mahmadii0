@@ -1,4 +1,4 @@
-# 👋 Hi, I’m on of the **Mamads** of the world
+# 👋 Hi, I’m one of the **Mamads** of the world
 I’m interested in solving problems,and i currently learning Backend side because i love it!!!
 
 ### 🛠 Tech Stack:
