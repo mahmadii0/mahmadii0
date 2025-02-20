@@ -1,9 +1,15 @@
-- 👋 Hi, I’m on of the Mamads of the world
-- 👀 I’m interested in solving problems!
-- 🌱 I’m currently learning Django
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m on of the **Mamads** of the world
+I’m interested in solving problems,and i currently learning Backend side because i love it!!!
+
+### 🛠 Tech Stack:
+- Python | Django | Go
+- Databases: Microsoft SQL server, MySQL
+
+### 📬 Connect with Me
+- Email: mohammad.ah.pr@gmail.com
+- Telegram: [@m_ahmadi10](https://t.me/m_ahmadi10)  
+
+- ⚡ Fun fact: I am connected🗿
 
 <!---
 mahmadii0/mahmadii0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
