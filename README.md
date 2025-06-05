@@ -2,7 +2,7 @@
 I’m interested in solving problems,and i currently learning Backend side because i love it!!!
 
 ### 🛠 Tech Stack:
-- Python | Django | Go
+- Python | Go 
 - Databases: Microsoft SQL server, MySQL
 
 ### 📬 Connect with Me
